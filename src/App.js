@@ -5,6 +5,7 @@ import { UserContext } from './UserContext';
 import Header from './Layout/Header';
 import Footer from './Layout/Footer';
 import Menuleft from './Layout/Menuleft';
+import Test from './Compomnent/Test';
 
 
 function App(props) {

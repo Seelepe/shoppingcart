@@ -1,6 +1,6 @@
-import { combineReducers } from "redux";
+// import { combineReducers } from "redux";
 
-const rootReducer = combineReducers({
-    hobby: hobbyReducer,
-})
-export default rootReducer;
+// const rootReducer = combineReducers({
+//     hobby: hobbyReducer,
+// })
+// export default rootReducer;

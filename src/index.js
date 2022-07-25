@@ -25,11 +25,11 @@ import Cart from './Compomnent/Cart';
 import { Provider } from 'react-redux';
 import store from './store';
 
-const Main = () =>(
-  <Provider store={store}>
-    <App />
-  </Provider>
-)
+// const Main = () =>(
+//   <Provider store={store}>
+//     <App />
+//   </Provider>
+// )
 ReactDOM.render(
   <React.StrictMode>
     <Router>
